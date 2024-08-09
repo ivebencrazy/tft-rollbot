@@ -1,195 +1,189 @@
 {
-  "name": "TFTSet11",
+  "name": "TFTSet12",
   "traits": {
-    "Ghostly": [
-      "Aatrox",
-      "Caitlyn",
-      "Illaoi",
-      "Kayn",
-      "Morgana",
-      "Shen"
-    ],
-    "Fortune": [
-      "Annie",
-      "Teemo",
-      "Tristana",
+    "Witchcraft": [
       "Zoe",
-      "Kobuko"
-    ],
-    "Lovers": [
-      "Xayah",
-      "Rakan",
-      "Xayah & Rakan"
-    ],
-    "Reaper": [
-      "Kayn",
-      "Kha'Zix",
-      "Kindred",
-      "Yone"
-    ],
-    "Trickshot/Altruist": [
-      "Xayah & Rakan"
-    ],
-    "Umbral": [
-      "Alune",
-      "Darius",
-      "Sett",
-      "Sylas",
-      "Yone",
-      "Yorick"
-    ],
-    "Dryad": [
-      "Kindred",
-      "Ornn",
-      "Rek'Sai",
-      "Gnar",
-      "Azir"
-    ],
-    "Sage": [
+      "Cassiopeia",
+      "Neeko",
+      "Fiora",
       "Morgana",
-      "Wukong",
-      "Zyra",
-      "Diana"
+      "Poppy"
     ],
-    "Arcanist": [
-      "Ahri",
-      "Illaoi",
-      "Lissandra",
-      "Lux",
-      "Neeko",
-      "Syndra",
-      "Zoe"
-    ],
-    "Inkshadow": [
-      "Aatrox",
-      "Kai'Sa",
-      "Senna",
-      "Udyr",
-      "Volibear",
-      "Jax"
-    ],
-    "Altruist": [
-      "Riven",
-      "Soraka",
-      "Rakan"
-    ],
-    "Artist": [
-      "Hwei"
-    ],
-    "Exalted": [],
-    "Heavenly": [
-      "Kha'Zix",
-      "Malphite",
-      "Neeko",
-      "Qiyana",
-      "Soraka",
-      "Wukong"
-    ],
-    "Porcelain": [
-      "Amumu",
-      "Ashe",
-      "Lissandra",
-      "Lux"
-    ],
-    "Duelist": [
-      "Darius",
-      "Irelia",
-      "Lee Sin",
-      "Qiyana",
-      "Tristana",
-      "Volibear",
-      "Yasuo"
-    ],
-    "Dragonlord": [
-      "Janna",
-      "Lee Sin",
-      "Xayah",
-      "Rakan",
-      "Diana",
-      "Xayah & Rakan"
-    ],
-    "Bruiser": [
-      "Aatrox",
-      "Galio",
-      "Riven",
-      "Sylas",
+    "Arcana": [
+      "Hecarim",
       "Tahm Kench",
-      "Kobuko",
-      "Rek'Sai"
+      "Xerath",
+      "Ahri"
     ],
-    "Trickshot": [
-      "Bard",
-      "Kai'Sa",
-      "Sivir",
-      "Teemo",
-      "Xayah"
-    ],
-    "Fated": [
-      "Ahri",
-      "Aphelios",
-      "Kindred",
-      "Sett",
-      "Syndra",
-      "Thresh",
-      "Yasuo"
-    ],
-    "Invoker": [
-      "Annie",
-      "Alune",
-      "Janna",
-      "Kog'Maw",
-      "Lillia",
-      "Azir"
-    ],
-    "Great": [
-      "Wukong"
-    ],
-    "Sniper": [
-      "Aphelios",
-      "Ashe",
-      "Caitlyn",
-      "Kog'Maw",
-      "Senna"
-    ],
-    "Mythic": [
-      "Bard",
-      "Cho'Gath",
+    "Frost": [
+      "Zilean",
+      "Twitch",
+      "Warwick",
       "Hwei",
+      "Diana",
+      "Swain",
+      "Olaf"
+    ],
+    "Hunter": [
+      "Twitch",
       "Kog'Maw",
-      "Lillia",
-      "Neeko",
-      "Tahm Kench",
-      "Nautilus"
+      "Jinx",
+      "Nomsy",
+      "Olaf"
     ],
-    "Spirit Walker": [
-      "Udyr"
+    "Best Friends": [
+      "Norra & Yuumi"
     ],
-    "Warden": [
-      "Amumu",
-      "Garen",
-      "Illaoi",
-      "Sett",
-      "Gnar",
-      "Jax",
-      "Nautilus"
+    "Druid": [
+      "Wukong"
     ],
-    "Behemoth": [
-      "Cho'Gath",
-      "Malphite",
-      "Ornn",
-      "Shen",
-      "Thresh",
-      "Udyr",
-      "Yorick"
-    ],
-    "Storyweaver": [
-      "Galio",
-      "Garen",
-      "Irelia",
-      "Riven",
-      "Sivir",
+    "Scholar": [
       "Zoe",
-      "Zyra"
+      "Bard",
+      "Ryze",
+      "Milio",
+      "Ahri"
+    ],
+    "Multistriker": [
+      "Jax",
+      "Camille",
+      "Ashe",
+      "Kassadin",
+      "Hecarim",
+      "Kalista",
+      "Akali"
+    ],
+    "Bat Queen": [
+      "Morgana"
+    ],
+    "Warrior": [
+      "Nilah",
+      "Katarina",
+      "Fiora",
+      "Gwen",
+      "Akali"
+    ],
+    "Chrono": [
+      "Zilean",
+      "Jax",
+      "Vex",
+      "Karma",
+      "Camille"
+    ],
+    "Incantor": [
+      "Karma",
+      "Cassiopeia",
+      "Syndra",
+      "Ziggs"
+    ],
+    "Ascendant": [
+      "Xerath"
+    ],
+    "Faerie": [
+      "Tristana",
+      "Katarina",
+      "Lillia",
+      "Rakan",
+      "Kalista",
+      "Milio",
+      "Seraphine"
+    ],
+    "Relic": [],
+    "Preserver": [
+      "Zilean",
+      "Bard",
+      "Rakan",
+      "Morgana"
+    ],
+    "Vanguard": [
+      "Warwick",
+      "Blitzcrank",
+      "Mordekaiser",
+      "Tahm Kench",
+      "Galio",
+      "Rumble"
+    ],
+    "Eldritch": [
+      "Elise",
+      "Ashe",
+      "Nilah",
+      "Syndra",
+      "Mordekaiser",
+      "Nami",
+      "Briar"
+    ],
+    "Shapeshifter": [
+      "Elise",
+      "Jayce",
+      "Neeko",
+      "Briar",
+      "Nasus",
+      "Shyvana",
+      "Swain"
+    ],
+    "Blaster": [
+      "Hwei",
+      "Smolder",
+      "Tristana",
+      "Ezreal",
+      "Varus",
+      "Rumble"
+    ],
+    "Bastion": [
+      "Diana",
+      "Nunu",
+      "Hecarim",
+      "Lillia",
+      "Taric",
+      "Shen",
+      "Poppy"
+    ],
+    "Ravenous": [
+      "Briar"
+    ],
+    "Dragon": [
+      "Smolder",
+      "Nomsy",
+      "Shyvana"
+    ],
+    "Honeymancy": [
+      "Blitzcrank",
+      "Kog'Maw",
+      "Nunu",
+      "Veigar",
+      "Ziggs"
+    ],
+    "Portal": [
+      "Jayce",
+      "Zoe",
+      "Kassadin",
+      "Ezreal",
+      "Ryze",
+      "Norra & Yuumi",
+      "Taric",
+      "Galio"
+    ],
+    "Mage": [
+      "Vex",
+      "Veigar",
+      "Nami",
+      "Norra & Yuumi",
+      "Galio",
+      "Soraka",
+      "Seraphine"
+    ],
+    "Sugarcraft": [
+      "Jinx",
+      "Bard",
+      "Gwen",
+      "Rumble",
+      "Soraka"
+    ],
+    "Pyro": [
+      "Varus",
+      "Nasus",
+      "Akali",
+      "Shen"
     ]
   }
 }
